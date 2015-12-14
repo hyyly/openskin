@@ -1,0 +1,1 @@
+I have been looking for a free Skin system for C++ for a long time, but I haven't got anyone, So I decided to develope a free version of Skin for C++ GUI
